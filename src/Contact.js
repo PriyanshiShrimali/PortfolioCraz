@@ -10,7 +10,7 @@ function Contact() {
       <div className="row">
         {/* <div>
           <img src={contactImg} alt="" className="contact__img1" />
-        </div> */}
+  </div> */}
         <div className="col__2">
           <div className="contact__box">
             <div className="contact__meta">
