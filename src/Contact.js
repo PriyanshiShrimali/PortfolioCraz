@@ -1,7 +1,7 @@
 import React from "react";
 import "./Contact.css";
 import contactImg from "./img/piyu.jpg";
-import contactImg1 from "./img/piyu.jpg";
+
 //import { ToastContainer, toast } from 'react-toastify';
 function Contact() {
   //const notify = () => toast("Wow so easy!");
@@ -9,11 +9,7 @@ function Contact() {
   return (
     <div className="contact component__space" id="Contact">
       <div className="row">
-        
-        <div className="col__2">
-          <div>
-          <img src={contactImg1} alt="" className="contact__img1" />
-           </div>
+      <div className="col__2">
           <div className="contact__box">
             <div className="contact__meta">
               <h1 className="hire__text">Contact Us.</h1>
@@ -60,6 +56,7 @@ function Contact() {
             </div>
           </div>
         </div>
+        
         <div className="col__2">
           <img src={contactImg} alt="" className="contact__img" />
         </div>

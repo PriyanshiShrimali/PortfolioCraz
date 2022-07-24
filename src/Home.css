@@ -79,7 +79,7 @@ li.sideNavbar {
 li.sideNavbar:hover{
     transform: translateY(5px);
     background: linear-gradient(#ffff, #4306b4, #f01669);
-  text-align: center;
+    text-align: center;
   
 
 }
