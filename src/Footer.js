@@ -28,7 +28,7 @@ function Footer() {
         className="twitter social">
         <FontAwesomeIcon icon={faTwitter} size="2x" />
       </a>
-      <a href="https://www.instagram.com"
+      <a href="https://www.instagram.com/webcrazcraft/"
         className="instagram social">
         <FontAwesomeIcon icon={faInstagram} size="2x" />
       </a>

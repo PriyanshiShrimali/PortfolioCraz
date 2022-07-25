@@ -124,7 +124,7 @@ function Project() {
              </div>
              
              <div className="view__more__btn d__flex align__items__center justify__content__center pxy__30">
-                <a href="http://localhost:3000/?message=#Portfolio">
+                <a href="https://github.com/PriyanshiShrimali">
              <button className="view__more pointer btn">View more</button>
              </a>
              </div>

@@ -10,6 +10,9 @@ function Contact() {
     <div className="contact component__space" id="Contact">
       <div className="row">
       <div className="col__2">
+          <img src={contactImg} alt="" className="contact__img" />
+        </div>
+      <div className="col__2">
           <div className="contact__box">
             <div className="contact__meta">
               <h1 className="hire__text">Contact Us.</h1>
@@ -57,9 +60,9 @@ function Contact() {
           </div>
         </div>
         
-        <div className="col__2">
+        {/* <div className="col__2">
           <img src={contactImg} alt="" className="contact__img" />
-        </div>
+        </div> */}
       </div>
     </div>
   );

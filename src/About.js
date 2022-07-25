@@ -27,6 +27,7 @@ window.addEventListener("scroll",function(){
                 Engineering at Government Engineering College, Modasa. I Learn
                 Different Things And Languages.
                 <br />
+                <br/>
                 <b>
                   <u>My Technical Skills-</u>
                 </b>
@@ -38,18 +39,6 @@ window.addEventListener("scroll",function(){
                   <li>Reactjs</li>
                   <li>Android</li>
                 </ul>
-              </p>
-              <p className="about__text p__color">
-                Hi,I'm Priyanshi Shrimali. I Completed My Graduation In Diploma
-                Computer Engineering From Government Polytechnic For Girls,
-                Ahmedabad In Year 2020. Now,I'm Studying In Degree Computer
-                Engineering at Government Engineering College, Modasa. I Learn
-                Different Things And Languages.
-              </p>
-              <p className="about__text p__color">
-                Now,I'm Studying In Degree Computer Engineering at Government
-                Engineering College, Modasa. I Learn Different Things And
-                Languages.
               </p>
               <div className="about__button d__flex align__items__center">
                 <a href={cv}>
